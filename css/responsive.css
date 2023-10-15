@@ -1,0 +1,378 @@
+/*****************************************************************************
+ 			**********resposive css media code start********
+ *****************************************************************************/
+@media (min-width:279px) and (max-width:319px){
+/***************** media query start(smart phone)*****************/
+.banner h4{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 500;
+	color: #FD511A;
+	margin: -50px 0px 0px -35px;
+}
+.banner h1{
+	font-size: 28px;
+	line-height: 38px;
+	font-weight: 700;
+	margin: 10px -35px;
+	color: #000;
+}
+.banner p{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400;
+	margin: 0px 0px 0px -30px;
+}
+.banner .nav-item .btn{
+	margin: 16px -30px;
+}	
+.banner .banner-image{
+	margin: 20px 0px 0px 0px;
+}
+.feature{
+	margin: 0px 0px;
+}
+.inner-feature{
+	width: 250px;
+	height: 270px;
+	border-radius: 8px;
+	padding: 20px 20px;
+	margin: 35px 0px 0px 0px;
+	transition: .4s;
+}
+.feature .inner-feature h4{
+	font-size: 20px;
+	line-height: 30px;
+}
+.feature .inner-feature p{
+	font-size: 15px;
+	
+}
+.head-1 h1{
+	font-size: 24px;
+	margin: 35px 0px 0px 0px;
+}
+.image-card .card{
+	width: 210px;
+	height: 298px;
+	margin:15px 35px;
+}
+.card .card-img-top{
+	width: 196px;
+	height: 133px;
+	margin: -8px -12px;
+}
+.card-title{
+	font-size:16px;
+	margin: 5px -10px;
+}
+.card-text{
+	font-size: 14px;
+	margin: 0px -10px;
+}
+.card-body .btn{
+	margin: 10px -10px;
+	padding: 5px 12px;
+	font-size: 14px;
+}
+.card .icon-text{
+	font-size: 8px;
+}
+
+.avater .avater-image img{
+	width: 120px;
+	height: 105px;
+	margin: 30px 70px;
+	
+}
+.avater p{
+	font-size: 14px;
+	line-height: 24px;
+	margin: 0px;
+}
+
+/***************** media query end*****************/
+}
+@media (min-width:320px) and (max-width:480px){
+/***************** media query start (smart phone)*****************/
+.banner h4{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 500;
+	color: #FD511A;
+	margin: -50px 0px 0px -35px;
+}
+.banner h1{
+	font-size: 28px;
+	line-height: 38px;
+	font-weight: 700;
+	margin: 10px -35px;
+	color: #000;
+}
+.banner p{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400;
+	margin: 0px 0px 0px -30px;
+}
+.banner .nav-item .btn{
+	margin: 16px -30px;
+}	
+.banner .banner-image{
+	margin: 20px 0px 0px 0px;
+}
+.feature{
+	margin: 0px 0px;
+}
+.inner-feature{
+	width: 250px;
+	height: 270px;
+	border-radius: 8px;
+	padding: 20px 20px;
+	margin: 35px 0px 0px 20px;
+	transition: .4s;
+}
+.feature .inner-feature h4{
+	font-size: 20px;
+	line-height: 30px;
+}
+.feature .inner-feature p{
+	font-size: 15px;
+	
+}
+.head-1 h1{
+	font-size: 24px;
+	margin: 35px 0px 0px 0px;
+}
+.image-card .card{
+	width: 245px;
+	height: 320px;
+	margin:18px 37px;
+}
+.card .card-img-top{
+	width: 215px;
+	height: 140px;
+	margin: -8px -4px;
+}
+.card-title{
+	font-size:16px;
+	margin: 5px -10px;
+}
+.card-text{
+	font-size: 14px;
+	margin: 0px -10px;
+}
+.card-body .btn{
+	margin: 10px -10px;
+	padding: 5px 12px;
+	font-size: 14px;
+}
+.card .icon-text{
+	font-size: 10px;
+}
+
+.avater .avater-image img{
+	width: 120px;
+	height: 105px;
+	margin: 30px 90px;
+	
+}
+.avater p{
+	font-size: 14px;
+	line-height: 24px;
+	margin: 0px;
+}
+	
+/***************** media query end*****************/
+}
+
+@media (min-width:481px) and (max-width:767px){
+/***************** media query start(tablet)*****************/
+.banner h4{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 500;
+	color: #FD511A;
+	margin: -50px 0px 0px 0px;
+}
+.banner h1{
+	font-size: 33px;
+	line-height: 43px;
+	font-weight: 700;
+	margin: 10px 0px;
+	color: #000;
+}
+.banner p{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400;
+	margin: 0px 0px 0px 0px;
+}
+.banner .nav-item .btn{
+	margin: 16px 0px;
+}	
+.banner .banner-image{
+	margin: 20px 0px 0px 0px;
+}
+.feature{
+	margin: 0px 0px;
+}
+.inner-feature{
+	width: 250px;
+	height: 270px;
+	border-radius: 8px;
+	padding: 20px 20px;
+	margin: 35px 0px 0px 120px;
+	transition: .4s;
+}
+.feature .inner-feature h4{
+	font-size: 20px;
+	line-height: 30px;
+}
+.feature .inner-feature p{
+	font-size: 15px;
+	
+}
+.head-1 h1{
+	font-size: 24px;
+	margin: 60px 0px 0px 0px;
+}
+.image-card .card{
+	width: 320px;
+	height: 370px;
+	margin:18px 120px;
+}
+.card .card-img-top{
+	width: 275px;
+	height: 170px;
+	margin: 0px 0px;
+}
+.card-title{
+	font-size:18px;
+	margin: 5px -10px;
+}
+.card-text{
+	font-size: 15px;
+	margin: 0px -10px;
+}
+.card-body .btn{
+	margin: 10px -10px;
+	padding: 5px 12px;
+	font-size: 14px;
+}
+.card .icon-text{
+	font-size: 12px;
+}
+
+.avater .avater-image img{
+	width: 130px;
+	height: 110px;
+	margin: 30px 180px;
+	
+}
+.avater p{
+	font-size: 16px;
+	line-height: 26px;
+	margin: 0px;
+}
+/***************** media query end*****************/
+}
+
+@media (min-width:768px) and (max-width:1024px){
+/***************** media query start(ipad, tablet)*****************/
+.banner h4{
+	font-size: 15px;
+	line-height: 25px;
+	font-weight: 500;
+	color: #FD511A;
+	margin: 0px 0px 0px 0px;
+}
+.banner h1{
+	font-size: 40px;
+	line-height: 50px;
+	font-weight: 700;
+	margin: 10px 0px;
+	color: #000;
+}
+.banner p{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400;
+	margin: 0px 0px 0px 0px;
+}
+.banner .nav-item .btn{
+	margin: 30px 0px;
+}	
+.banner .banner-image{
+	margin: 25px 0px 0px 0px;
+}
+.feature{
+	margin: 0px 0px;
+}
+.inner-feature{
+	width: 250px;
+	height: 270px;
+	border-radius: 8px;
+	padding: 20px 20px;
+	margin: 45px 0px 0px 235px;
+	transition: .4s;
+}
+.feature .inner-feature h4{
+	font-size: 24px;
+	line-height: 34px;
+}
+.feature .inner-feature p{
+	font-size: 16px;
+	
+}
+.head-1 h1{
+	font-size: 36px;
+	margin: 60px 0px 0px 0px;
+}
+.image-card .card{
+	width: 365px;
+	height: 483px;
+	margin:35px 190px;
+}
+.card .card-img-top{
+	width: 330px;
+	height: 234px;
+	margin: 0px 0px;
+}
+.card-title{
+	font-size:24px;
+	margin: 5px -10px;
+}
+.card-text{
+	font-size: 16px;
+	margin: 0px -10px;
+}
+.card-body .btn{
+	margin: 10px -10px;
+	padding: 8px 24px;
+	font-size: 15px;
+}
+.card .icon-text{
+	font-size: 16px;
+}
+
+.avater .avater-image img{
+	width: 150px;
+	height: 138px;
+	margin: 30px 293px;
+	
+}
+.avater p{
+	font-size: 18px;
+	line-height: 28px;
+	margin: 0px 60px;
+}
+
+/***************** media query end*****************/
+}
+
+
+
+/***********************************************************************
+ 			********resposive css media code end********
+ ***********************************************************************/
